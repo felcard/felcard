@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm felipe</h1>
-<h3 align="center">Full Stack software engineer</h3>
+<!--h1 align="center">Hi 👋, I'm Felipe</h1-->
+<h3 align="center">Full Stack Software Engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felcard" alt="felcard" /></a> </p>
 
-- 🔭 I’m currently working for [isla](weareisla.co.uk)
+- 🔭 currently working for [isla](weareisla.co.uk)
 
-- 👨‍💻 Some of my work is available at [cardini.dev](cardini.dev)
+- 👨‍💻 sample projects available at [cardini.dev](cardini.dev)
 
 - 💬 Ask me about **React, node, javascript, sockets** or anything else, if I don't know it that will give me an excuse to learn something new!
 
