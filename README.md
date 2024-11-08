@@ -1,7 +1,7 @@
 <!--h1 align="center">Hi 👋, I'm Felipe</h1-->
 <h3 align="center">Full Stack Software Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felcard" alt="felcard" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felcard" alt="felcard" /></a> </p>-->
 
 - 🔭 currently working for [isla](weareisla.co.uk)
 
