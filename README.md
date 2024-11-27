@@ -5,7 +5,7 @@
 
 - 🔭 currently working for [isla](weareisla.co.uk)
 
-- 👨‍💻 sample projects available at [cardini.dev](cardini.dev)
+- 👨‍💻 sample projects available at [cardini.dev](https://powerchat.netlify.app/)
 
 - 💬 Ask me about **React, node, javascript, sockets** or anything else, if I don't know it that will give me an excuse to learn something new!
 
